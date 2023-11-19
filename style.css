@@ -1,0 +1,31 @@
+.bg{
+    background-color: #13ad68;
+    border-radius: 30px;
+}
+.contact-box{
+    background-color: rgb(163, 207, 187,0.3);
+    border-radius: 20px;
+}
+form{
+    padding: 10px;
+    margin: 40px;
+    border-radius: 20px;
+    box-shadow: rgba(164, 66, 66, 0.35) 15px 15px 25px;
+    background-color: rgba(239, 239, 191, 0.1);
+}
+form:hover{
+    box-shadow: none;
+    background-color:rgb(19, 173, 104,0.5);
+
+}
+.button{
+    text-align: center;
+}
+
+
+/* table design */
+
+.tbl{
+    box-shadow: rgba(40, 9, 9, 0.35) 15px 20px 10px;
+    border-radius: 20px;
+}
